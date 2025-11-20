@@ -5,7 +5,7 @@ permalink: /dmpplan.html
 ---
 
 # Data Management Plan
-## Created by Kate Thronhill
+## Created by Andre Cachoua
 
 This is my data management plan 
 
