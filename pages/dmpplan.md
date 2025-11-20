@@ -9,5 +9,5 @@ permalink: /dmpplan.html
 
 This is my data management plan 
 
-[This is a link to my metadata application profile](https://www.google.com)
+[This is a link to my metadata application profile](/objects/group3-map.pdf)
 
